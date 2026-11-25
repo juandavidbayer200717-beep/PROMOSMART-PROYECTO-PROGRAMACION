@@ -19,7 +19,7 @@ Librerías necesarias: `pandas` y `matplotlib`. No se necesita ninguna base de d
 ## Integrantes
 | Nombre completo | Usuario de GitHub |
 |---|---|
-| Juan David Bayer Jaime | @usuario |
-| Simón Camacho Hernández | @usuario |
-| Samuel Escandón | @usuario |
-| Lucas Roldán | @usuario |
+| Juan David Bayer Jaime | @juandavidbayer200717-beep |
+| Simón Camacho Hernández | @Simonch27 |
+| Samuel Escandón | @samuelescandonp-del |
+| Lucas Roldán | @Luc4sRoldan |
